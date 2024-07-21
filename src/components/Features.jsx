@@ -45,7 +45,7 @@ const Features = () => {
           <div className="mt-32 mb-24 ml-10 ">
             <h2 className="text-5xl lg:text-7xl font-semibold">iPhone.</h2>
             <h2 className="text-5xl lg:text-7xl font-semibold">
-              Được đúc từ titan..
+              Được đúc từ titan.
             </h2>
           </div>
           <div className="flex-center flex-col sm:col-10">
